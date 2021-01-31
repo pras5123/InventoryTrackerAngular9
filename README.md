@@ -1,7 +1,7 @@
 # InventoryTrackerAngular9
 
 # Technology Stack  
-1.	Angular 9
+1.	Angular 9 using Template driven form
 2.	HTML, CSS,Bootstrap 
 3.	.Net Web API  
 4.	Entity Framework 
